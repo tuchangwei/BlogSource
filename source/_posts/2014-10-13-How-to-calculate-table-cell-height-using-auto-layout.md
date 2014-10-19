@@ -40,4 +40,11 @@ Notice that: this is "sizingCell.contentView", not "sizingCell".
 ![](/2014/10/13/How-to-calculate-table-cell-height-using-auto-layout/QQ20141013-2@2x.png)
 
 Done! The effect is that the UIlabel named `sizingCell.contentLabel` will resize by text's length, and the UITableViewCell will resize by the UILabel.
+
+Refer to:
+
+[Dynamic Table View Cell Height and Auto Layout](http://www.raywenderlich.com/73602/dynamic-table-view-cell-height-auto-layout)
  
+ [Using auto-layout to calculate table cell height](http://blog.amyworrall.com/post/66085151655/using-auto-layout-to-calculate-table-cell-height)
+ 
+ http://stackoverflow.com/questions/25265173/how-can-a-get-the-auto-layout-size-of-the-uicollectionviewcells-in-ios-8-syste
