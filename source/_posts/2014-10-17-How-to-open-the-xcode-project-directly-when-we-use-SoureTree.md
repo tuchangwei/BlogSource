@@ -10,7 +10,7 @@ Now, it is coming.
 
 1, created a small automator workflow. There are two workflow files I have written, you can download them in [here](https://github.com/tuchangwei/SoureTreeWorkflow)
 
-![](/2014/10/13/How-to-calculate-table-cell-height-using-auto-layout/reTree/QQ20141017-1@2x.png)
+![](/2014/10/17/How-to-open-the-xcode-project-directly-when-we-use-SoureTree/QQ20141017-1@2x.png)
 
 2, add `Custom Actions` on SourceTree.
 
@@ -18,11 +18,11 @@ Script to run: automator
 
 Parameters:  -D VariableName=$REPO /Path/To/Workflow.workflow
 
-![](/2014/10/13/How-to-calculate-table-cell-height-using-auto-layout/reTree/QQ20141017-2@2x.png)
+![](/2014/10/17/How-to-open-the-xcode-project-directly-when-we-use-SoureTree/QQ20141017-2@2x.png)
 
 3, try it!
 
-![](/2014/10/13/How-to-calculate-table-cell-height-using-auto-layout/reTree/QQ20141017-3@2x.png)
+![](/2014/10/17/How-to-open-the-xcode-project-directly-when-we-use-SoureTree/QQ20141017-3@2x.png)
 
 So, this is all.
 
