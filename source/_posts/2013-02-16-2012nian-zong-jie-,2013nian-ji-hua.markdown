@@ -3,7 +3,7 @@ layout: post
 title: "2012年总结，2013年计划"
 date: 2013-02-16 21:13
 comments: true
-categories: life
+categories: Life
 ---
 
 2012年经历了很多，辞职，回校答辩，找工作，结婚，拿毕业证，还有将要出生的涂这这同学，这一年过的好赶啊。

@@ -3,7 +3,7 @@ layout: post
 title: "How to learn to cattle men"
 date: 2013-04-06 16:59
 comments: true
-categories: life
+categories: Life
 ---
 修行之道：
 

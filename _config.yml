@@ -94,14 +94,16 @@ deploy:
 # =============================================================================
 
 # 多说帐号
-duoshuo_shortname: ValeTu
+#duoshuo_shortname: ValeTu
 
 # DISQUS 帐号 （如果已经设置 多说 帐号，此选项将被跳过）
-#disqus_shortname: changweitu
+disqus_shortname: tuchangwei
 
 # JiaThis 分享服务
-jiathis: true
+#jiathis: true
 
+# 多说 分享服务（必须启用多说）
+#duoshuo_share: true
 # 社交链接，将在侧栏中显示
 social:
   GitHub: https://github.com/
